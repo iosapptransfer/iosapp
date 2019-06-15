@@ -2,7 +2,7 @@ Hi there.
 
 
 
-I need to buy apps that are already approved on the AppStore. Any kind, any functionality, any complexity is welcome, and no limitation in quantity.
+My name is Meng Du, I need to buy apps that are already approved on the AppStore. Any kind, any functionality, any complexity is welcome, and no limitation in quantity.
 
 
 
@@ -55,7 +55,15 @@ After first transaction, any way is fine.
 
  
 
-My budget will be 100$ at least for each, if you have any app matches all the requirements and price, please contact me on Telegram @iosapptransfer
+My budget will be 100$ at least for each, if you have any app matches all the requirements and price, please contact me.
+
+
+
+Telegram: iosapptransfer
+
+Skype: live:iosapptransfer
+
+Email: iosapptransfer@hotmail.com
 
  
 
