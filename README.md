@@ -55,7 +55,7 @@ After first transaction, any way is fine.
 
  
 
-My budget will be 100$ at least for each, if you have any app matches all the requirements and price, please contact me.
+My budget will be 150$ at least for each, if you have any app matches all the requirements and price, please contact me.
 
 
 
