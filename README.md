@@ -2,7 +2,7 @@ Hi there.
 
 
 
-My name is Meng Du, I need to buy apps that are already approved on the AppStore. Any kind, any functionality, any complexity is welcome, and no limitation in quantity.
+My name is Meng Du, I need to buy apps that are already approved on the AppStore. Any kind, any functionality, any complexity is welcome, and no limitation in quantity. Please note, I don't need very simple app that may rejected as spam.
 
 
 
@@ -15,6 +15,7 @@ My name is Meng Du, I need to buy apps that are already approved on the AppStore
 5. the latest upgrade date must be later than 2019.1.1, please submit a new version for any older one
 6. the latest version must NOT rejected, please submit a new version until no rejection
 7. it must be supported in China Market
+8. it must NOT be a simple webview wrapper, 4 pages should be contained at least
 
 
 
@@ -64,6 +65,7 @@ Telegram: iosapptransfer
 Skype: live:fiverrread
 
 E-Mail: fiverrread@hotmail.com
- 
+
+Facebook Messenger: meng.du.90857 
 
 Thanks for your time. Hoping we can cooperate for a long time.
