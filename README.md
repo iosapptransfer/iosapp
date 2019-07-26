@@ -60,11 +60,9 @@ My budget will be 120$ at least for each, if you have any app matches all the re
 
 
 
-* Telegram: iosapptransfer
+* Telegram: @mengdu54
 
-* Skype: live:fiverrread
-
-* E-Mail: fiverrread@hotmail.com
+* Skype: live:fiverrwrite
 
 * Facebook Messenger: meng.du.90857 
 
